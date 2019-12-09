@@ -1,0 +1,1 @@
+理解stage暂存区，master分支，HEAD指针
